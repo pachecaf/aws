@@ -36,5 +36,3 @@ module "user_queue" {
   # ... omitted
 }
 ```
-
-Alterar
