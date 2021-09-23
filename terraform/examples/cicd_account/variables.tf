@@ -7,7 +7,7 @@ variable "custom_tags" {
   })
   default = {
     Environment    = "Deployment"
-    TargetAccounts = "Demo"
+    TargetAccounts = "pachecaf"
     DeploymentType = "Terraform"
   }
 }
