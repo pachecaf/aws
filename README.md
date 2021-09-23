@@ -36,4 +36,3 @@ module "user_queue" {
   # ... omitted
 }
 ```
-Ambiente Dev
